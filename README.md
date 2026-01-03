@@ -1,4 +1,4 @@
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mehmetalp2205-cyber/G-ncel-24-DMR/blob/main/Mutluluk_Analizi.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mehmetalp2205-cyber/G-ncel-24-DMR/blob/main/2024_D%C3%BCnya-Mutluluk_Raporu.ipynb)
 
 2024 Dünya Mutluluk Raporu Analizi (World Happiness Report Analysis)
 
